@@ -1,0 +1,40 @@
+﻿<Window x:Class="Retail_Item.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Retail_Item"
+        mc:Ignorable="d"
+        Title="Retail Items" Height="450" Width="800" Background="AliceBlue">
+    <!-- converter to add the $ sign-->
+    <Window.Resources>
+        <local:MoneyConverter x:Key="Money"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Displaying Retail Store Items" HorizontalContentAlignment="Center" FontSize="35" FontStyle="Italic" Foreground="Blue" />
+        <!--displaying the label for the items-->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Label   Content="Description" BorderBrush="Blue" Grid.Row="1" FontSize="20" Width="200" FontWeight="Bold" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" />
+            <Label   Content="Unit On Hand" BorderBrush="Blue" Grid.Row="1" Width="200" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" />
+            <Label   Content="Price" BorderBrush="Blue" Grid.Row="1" Width="200" FontSize="20"  FontWeight="Bold" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" />
+        </StackPanel>
+        <!-- Binding the class objects and data-->
+        <ListBox ItemsSource="{Binding RetailItems}" Margin="5" Grid.Row="2"
+            FontSize="25" BorderBrush="Blue" BorderThickness="3" Width="630" SelectionChanged="ListBox_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Width="200" Content="{Binding Description}" HorizontalContentAlignment="Center"/>
+                        <Label Width="200" Content="{Binding UnitOnHand}" HorizontalContentAlignment="Center"/>
+                        <Label Width="150" Content="{Binding Price, Converter={StaticResource Money}}" Margin="0 0 50 0" HorizontalContentAlignment="Right"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

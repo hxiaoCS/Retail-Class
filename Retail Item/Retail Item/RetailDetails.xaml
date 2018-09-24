@@ -1,0 +1,17 @@
+﻿<Window x:Class="Retail_Item.RetailDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Retail_Item"
+        mc:Ignorable="d"
+        Title="RetailDetails" Height="400" Width="400" Loaded="Window_Loaded" Background="AliceBlue" BorderThickness="3" BorderBrush="Blue">
+    <Grid>
+        <!-- label for showing the details-->
+        <StackPanel Orientation="Vertical" Margin="10">
+            <Label Name="TheDescription" FontSize="25"/>
+            <Label Name="TheUnit" FontSize="25"/>
+            <Label Name="ThePrice" FontSize="25"/>
+        </StackPanel>
+    </Grid>
+</Window>

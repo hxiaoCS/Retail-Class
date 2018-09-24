@@ -1,0 +1,54 @@
+F:\Software development\Retail Item\Retail Item\bin\Debug\Retail Item.exe.config
+F:\Software development\Retail Item\Retail Item\bin\Debug\Retail Item.exe
+F:\Software development\Retail Item\Retail Item\bin\Debug\Retail Item.pdb
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.csprojAssemblyReference.cache
+F:\Software development\Retail Item\Retail Item\obj\Debug\MainWindow.g.cs
+F:\Software development\Retail Item\Retail Item\obj\Debug\App.g.cs
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.cache
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.lref
+F:\Software development\Retail Item\Retail Item\obj\Debug\MainWindow.baml
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.g.resources
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail_Item.Properties.Resources.resources
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.GenerateResource.cache
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.CoreCompileInputs.cache
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.exe
+F:\Software development\Retail Item\Retail Item\obj\Debug\Retail Item.pdb
+F:\Software development\Retail Item\Retail Item\obj\Debug\RetailDetails.g.cs
+F:\Software development\Retail Item\Retail Item\obj\Debug\RetailDetails.baml
+F:\Software development\Retail Item\Retail Item\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\bin\Debug\Retail Item.exe.config
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\bin\Debug\Retail Item.exe
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\bin\Debug\Retail Item.pdb
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.csprojAssemblyReference.cache
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\MainWindow.g.cs
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\RetailDetails.g.cs
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\App.g.cs
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.cache
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.lref
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\MainWindow.baml
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\RetailDetails.baml
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.g.resources
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail_Item.Properties.Resources.resources
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.GenerateResource.cache
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.CoreCompileInputs.cache
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.exe
+C:\Users\billx\Desktop\PROG 8010\111\Retail Item\Retail Item\obj\Debug\Retail Item.pdb
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\bin\Debug\Retail Item.exe.config
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\bin\Debug\Retail Item.exe
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\bin\Debug\Retail Item.pdb
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.csprojAssemblyReference.cache
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\MainWindow.g.cs
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\RetailDetails.g.cs
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\App.g.cs
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.cache
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item_MarkupCompile.lref
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\MainWindow.baml
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\RetailDetails.baml
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.g.resources
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail_Item.Properties.Resources.resources
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.GenerateResource.cache
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.csproj.CoreCompileInputs.cache
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.exe
+C:\Users\billx\Desktop\PROG 8010\Shruti's Retail Item Class\Retail Item\Retail Item\obj\Debug\Retail Item.pdb
